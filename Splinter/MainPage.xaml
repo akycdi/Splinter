@@ -10,6 +10,7 @@
             VerticalOptions="Center">
 
             <Label Text="Main Page Splinter"/>
+            <Label Text="For spliting the Money"/>
 
         </VerticalStackLayout>
     </ScrollView>
