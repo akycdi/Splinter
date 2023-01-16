@@ -15,7 +15,7 @@
 		<ApplicationTitle>Splinter</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.splinter</ApplicationId>
+		<ApplicationId>com.akycdi.splinter</ApplicationId>
 		<ApplicationIdGuid>7221d105-5f13-496a-95d5-047c4d9eda06</ApplicationIdGuid>
 
 		<!-- Versions -->
@@ -55,7 +55,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Models\" />
 	  <Folder Include="Views\" />
 	</ItemGroup>
 
