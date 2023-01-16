@@ -8,7 +8,6 @@ namespace Splinter.Models
 {
     public class SplitModel
     {
-        string SpliterName;
-        public string Name { get { return name; } }
+        
     }
 }
